@@ -11,7 +11,7 @@ setup.py
 import setuptools
 
 
-__version__ = '0.0.1'
+__version__ = '0.0.2'
 __author__ = 'Toran Sahu  <toran.sahu@yahoo.com>'
 __license__ = 'Distributed under terms of the AGPL license.'
 
@@ -21,7 +21,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
         name="convert2json",
-        version="0.0.1",
+        version="0.0.2",
         author="Toran Sahu",
         author_email="toran.sahu@yahoo.com",
         description="Convert compatible python data types, CSV, XLSX, XLS files to JSON string. ",
@@ -38,7 +38,7 @@ setuptools.setup(
             'Topic :: Software Development :: Libraries :: Python Modules',
             'Topic :: System :: Archiving :: Packaging',
             "Topic :: Text Processing",
-            "Development Status :: 1 - Planning",
+            "Development Status :: 2 - Pre-Alpha",
             "Intended Audience :: Developers",
             "Intended Audience :: System Administrators",
             "Intended Audience :: End Users/Desktop",
